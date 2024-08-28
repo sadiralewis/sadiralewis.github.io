@@ -52,6 +52,7 @@ hr {
     border-top: 1px solid $line-color;
     border-bottom: solid;
 }
+%none 
 
 // Images
 img {
@@ -85,7 +86,7 @@ li {
 // Links
 a {
     color: $url-color;
-    text-decoration: none;
+    text-decoration: palevioletred;
     &:hover {
         color: $url-hover-color;
     }
