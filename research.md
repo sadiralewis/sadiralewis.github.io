@@ -14,7 +14,7 @@ Kaqchikel negation is bipartite, meaning it uses two negative markers which fram
 
 ## Q in the A Domain 
 
-I have a current project joint with [Aron Hirsh], that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point in the derivation the Q element is integrated into the structure. We question whether Q can originate in an A-position at all. 
+I have a current project joint with [Aron Hirsch], that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point in the derivation the Q element is integrated into the structure. We question whether Q can originate in an A-position at all. 
 
 ## Superiority Effects in Turkish Multiple *wh*
 
