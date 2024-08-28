@@ -9,6 +9,9 @@ title: Research
 
 My primary research project centers around the syntax of focus structure, cleft structures, and relative clauses in Kaqchikel. I am currently looking at the syntax of negation in this language and using it as a window to understand other parts of the syntax, namely focus movement, head movement, and copular syntax. 
 
+Kaqchikel negation is bipartite, meaning it uses two negative markers which frame a lexical item. The negation phrase then forms a constituent which always appears in the left periphery. I ask the questions, (i) what is the syntax of negation, and (ii) how can negation trigger an apparent shift in word order, and (iii) how does the negation operation interact with other movement operations, and lastly (iiii) what can this syntax tell us about general cleft structures in the langauge.
+
+
 ## Q in the A Domain 
 
 I have a current project joint with [Aron Hirsh], that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point in the derivation the Q element is integrated into the structure. We question whether Q can originate in an A-position at all. 
