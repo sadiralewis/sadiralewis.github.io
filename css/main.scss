@@ -6,9 +6,12 @@
 $font-weight-normal: 200;
 $font-weight-bold:   600;
 
-$base-font-family: "Source Sans Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
+$base-font-family: "Playfair Display", -apple-system;
 $base-font-size:   13pt;
 $base-line-height: 1.5;
+
+// font family 
+// "Source Sans Pro", "Lato", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
 
 $heading-font-family: $base-font-family;
 $heading-font-size:   16pt;
