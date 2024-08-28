@@ -5,11 +5,10 @@ affiliation: University of Maryland, College Park
 
 
 education:
-    # - date:         2010-2014
-    #   title:        Ph.D in Computer Science
-    #   affiliation:  INRIA
-    #   location:     Sophia Antipolis, France
-    #   mentor:       Dr. George Drettakis
+    - date:         2019 - 2023       
+      title:        B.A. Linguistics 
+      affiliation:  University of California, Santa Cruz 
+      mentor:       Drs. Matt Wagers, Jess H.K. Law
     #   thesis:       Algorithms and perceptual analysis for interactive free viewpoint image-based navigation
 
 
