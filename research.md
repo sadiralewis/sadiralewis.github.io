@@ -6,9 +6,9 @@ title: Research
 
 ## Negation in Kaqchikel 
 
-## Exceptives 
+## Q in the A-Domain 
 
-## Q in the A Domain 
+## Exceptives 
 
 ## Superiority effects in Turkish multiple wh
 
