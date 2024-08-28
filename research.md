@@ -11,7 +11,7 @@ My primary research project centers around the syntax, specifically focus struct
 
 ## Q in the A Domain 
 
-I have a current project joint with Aron Hirsh, that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point the Q element is integrated into a structure in the derivation. We question whether Q can originate in an A position at all. 
+I have a current project joint with [Aron Hirsh], that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point the Q element is integrated into a structure in the derivation. We question whether Q can originate in an A position at all. 
 
 ## Superiority Effects in Turkish Multiple *wh*
 
@@ -29,3 +29,6 @@ Through my investigation of Negation in Kaqchikel, I discovered interesting data
 [Utku Turk]: https://utkuturk.com/
 [Variation in Exceptive Structures]: https://exceptives.lin.ufl.edu/
 [webpage]: https://exceptives.lin.ufl.edu/the-language-sample/
+[Aron Hirsch]: https://sites.google.com/view/aronhirsch/home?authuser=0
+[Eric Potsdam]: https://people.clas.ufl.edu/potsdam/
+[Masha Polisnksky]: https://www.mariapolinsky.com/about-me/
