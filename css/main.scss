@@ -3,10 +3,12 @@
 ---
 @charset "utf-8";
 
-$font-weight-normal: 200;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+$font-weight-normal: 400;
 $font-weight-bold:   600;
 
-$base-font-family: "Playfair Display", -apple-system;
+$base-font-family: "Playfair Display", -apple-system, "San Francisco", "Helvetica Neue", Helvetica, Roboto, "Segoe UI", "Segoe WP", Arial, Ubuntu, sans-serif;
 $base-font-size:   13pt;
 $base-line-height: 1.5;
 
@@ -25,18 +27,21 @@ $grey-vlight:#fefefe;
 $grey-light: #ccc;
 $grey:       #888;
 $grey-dark:  #444;
-$grey-vdark: #222;
+$grey-vdark: #060000;
+$text-black: #000;
 $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
+$pink:       #df1b66;
+$nice-back:  hsl(343, 29%, 56%); 
 
-$background:        $grey-vlight;
+$background:        $nice-back;
 $dark-background:   darken($background, 5%);
-$text-color:        $grey-vdark;
+$text-color:        $text-black;
 $text-light-color:  $grey;
 $url-color:         $red;
 $url-hover-color:   $orange;
-$header-text-color: $text-light-color;
+$header-text-color: $red;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
 $line-color:        $grey-light;
