@@ -14,7 +14,7 @@ Kaqchikel negation is bipartite, meaning it uses two negative markers which fram
 
 ## Q in the A Domain 
 
-It has been proposed that questions involved functional morphemes (Q). I have a current project joint with [Aron Hirsch], that looks at the behavior of Q in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand at what point in the derivation the Q element is integrated into the structure. We question whether Q can originate in an A-position at all. 
+It has been proposed that questions involve a functional morpheme (Q). I have a current project joint with [Aron Hirsch], that looks at how Q interacts with operations in the A domain as opposed to the A-bar domain. We look at selection, Case, and A-movement to understand the syntax of the QP. In particular, we are looking at the mechanism of how features project within the QP structure. 
 
 ## Superiority Effects in Turkish Multiple *wh*
 
