@@ -22,7 +22,7 @@ I have a project joint with [Utku Turk] that looks at examples of surprising sup
 
 ## Exceptives
 
-As a part of the research project [Variation in Exceptive Structures] funded by the National Science Foundation (Grants BCS-2116343 and BCS-2116344), led by [Masha Polisnksky] and [Eric Potsdam], I am investigating the nature of exceptive constructions in Thai. Please navigate to this [webpage] to learn more about the grant project.
+As a part of the research project [Variation in Exceptive Structures] funded by the National Science Foundation (Grants BCS-2116343 and BCS-2116344), led by [Masha Polinsky] and [Eric Potsdam], I am investigating the nature of exceptive constructions in Thai. Please navigate to this [webpage] to learn more about the grant project.
 
 ## Copular Syntax in Kaqchikel
 
@@ -34,4 +34,4 @@ Through my investigation of Negation in Kaqchikel, I discovered interesting data
 [webpage]: https://exceptives.lin.ufl.edu/the-language-sample/
 [Aron Hirsch]: https://sites.google.com/view/aronhirsch/home?authuser=0
 [Eric Potsdam]: https://people.clas.ufl.edu/potsdam/
-[Masha Polisnksky]: https://www.mariapolinsky.com/about-me/
+[Masha Polinsky]: https://www.mariapolinsky.com/about-me/
