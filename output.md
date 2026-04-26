@@ -12,7 +12,9 @@ title: Output
 
 
 
-<!-- ## Misc Work  -->
+## Misc Work 
+
+- [Exceptives in Thai]([https://zenodo.org/records/16884105]), as part of NSF project "Variation in Exceptive Structures" 
 
 
 
