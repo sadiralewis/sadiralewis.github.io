@@ -18,3 +18,5 @@ title: Output
 ## Internal Presentations 
 
 
+- [Q in the A Domain](./assets/Q_in_the_A_Domain.pdf) 
+
