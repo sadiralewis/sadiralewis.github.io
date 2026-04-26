@@ -19,5 +19,5 @@ title: Output
 ## Internal Presentations 
 
 
-- [Q in the A Domain](./assets/Q_in_the_A_Domain.pdf) 
+- University of Chicago Morphology and Syntax Workshop, 13 Febuary 2025 [Q in the A Domain](./assets/Q_in_the_A_Domain.pdf), joint work with Aron Hirsch. 
 
