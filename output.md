@@ -5,13 +5,15 @@ title: Output
 ---
 ## Preceedings Papers
 
-
-
-## Conference Presentations 
+[Superiority effects with wh-adjuncts in Turkish](file:///Users/sadie/Downloads/PLSA+5931+proceedings-3%20(3).pdf) 
 
 
 
-## Misc Work 
+<!-- ## Conference Presentations  -->
+
+
+
+<!-- ## Misc Work  -->
 
 
 
