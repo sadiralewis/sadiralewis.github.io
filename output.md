@@ -3,10 +3,18 @@ layout: page
 permalink: /output/
 title: Output
 ---
-##Preceedings Papers
+## Preceedings Papers
 
-##Conference Presentations 
 
-##Misc Work 
 
-##Internal Presentations 
+## Conference Presentations 
+
+
+
+## Misc Work 
+
+
+
+## Internal Presentations 
+
+
