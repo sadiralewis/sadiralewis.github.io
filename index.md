@@ -20,7 +20,7 @@ I completed my B.A. in Linguistics (2023) at The University of California, Santa
 [Aron Hirsch]: https://sites.google.com/view/aronhirsch/home?authuser=0
 [matt]: https://people.ucsc.edu/~mwagers/
 [law]: https://people.ucsc.edu/~jlaw5/
-[Contact]: https://linguistics.umd.edu/directory/sadira-lewis
+[Contact]: https://linguistics.uchicago.edu/people/sadira-lewis
 
 
 
