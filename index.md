@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="Sept 2023" width="300px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="Sept 2025" width="300px" align="right" %}
  
 
 I am a first year PhD student in Linguistics at The University of Chicago. 
