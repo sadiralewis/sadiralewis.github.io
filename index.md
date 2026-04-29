@@ -29,5 +29,7 @@ I completed my B.A. in Linguistics (2023) at The University of California, Santa
 
 - I will be at WCCFL44 in May, presenting a talk titled "Negation with a pseudo-cleft structure in Kaqchikel". 
 
+- I was awarded the Tinker Field Research Grant for my project "The Syntax of Kaqchikel Clefts: Exploratory Fieldwork in Guatemala"
+
 
 
