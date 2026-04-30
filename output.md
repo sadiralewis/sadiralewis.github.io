@@ -3,7 +3,7 @@ layout: page
 permalink: /output/
 title: Output
 ---
-### Proceedings Papers
+#### Proceedings Papers
 
 - January 2025: Lewis, S., & Turk, U. (2025). Superiority effects with wh-adjuncts in Turkish. Proceedings of the Linguistic Society of America, 10(1), 5931. [https://doi.org/10.3765/plsa.v10i1.5931](https://doi.org/10.3765/plsa.v10i1.5931)
 
@@ -12,7 +12,7 @@ title: Output
 
 
 
-### Misc Work 
+#### Misc Work 
 
 
 - Beslin, M., & Lewis, S. (n.d.). Exceptives in Thai. Zenodo. [https://doi.org/10.5281/zenodo.16884104]([https://zenodo.org/records/16884105]), as part of NSF project "Variation in Exceptive Structures" 
