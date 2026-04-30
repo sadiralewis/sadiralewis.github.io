@@ -14,8 +14,8 @@ title: Output
 
 ### Misc Work 
 
-- [Exceptives in Thai]([https://zenodo.org/records/16884105]), as part of NSF project "Variation in Exceptive Structures" 
 
+- Beslin, M., & Lewis, S. (n.d.). Exceptives in Thai. Zenodo. [https://doi.org/10.5281/zenodo.16884104]([https://zenodo.org/records/16884105]), as part of NSF project "Variation in Exceptive Structures" 
 
 ### Conference Presentations 
 
