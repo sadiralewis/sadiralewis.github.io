@@ -17,6 +17,13 @@ title: Output
 - [Exceptives in Thai]([https://zenodo.org/records/16884105]), as part of NSF project "Variation in Exceptive Structures" 
 
 
+### Conference Presentations 
+
+- Lewis, S (2026, May). Negation with a pseudo-cleft structure in Kaqchikel. Talk given at WCCFL 2026: West Coast Conference on Formal Linguistics. Universidad Nacional Autónoma de México (UNAM): Mexico City, Mexico. 
+
+- Lewis, S., Turk, U. (2025, January). Superiority Effects with Wh-Adjuncts in Turkish. Talk given at LSA 2025: Linguistic Society of America. Philadelphia, PA, USA.
+
+
 
 ### Internal Presentations 
 
