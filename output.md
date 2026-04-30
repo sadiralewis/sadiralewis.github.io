@@ -5,7 +5,7 @@ title: Output
 ---
 ### Proceedings Papers
 
-- January 2025: Lewis, S., & Turk, U. (2025). Superiority effects with wh-adjuncts in Turkish. Proceedings of the Linguistic Society of America, 10(1), 5931. https://doi.org/10.3765/plsa.v10i1.5931
+- January 2025: Lewis, S., & Turk, U. (2025). Superiority effects with wh-adjuncts in Turkish. Proceedings of the Linguistic Society of America, 10(1), 5931. [https://doi.org/10.3765/plsa.v10i1.5931](https://doi.org/10.3765/plsa.v10i1.5931)
 
 
 <!-- ## Conference Presentations  -->
