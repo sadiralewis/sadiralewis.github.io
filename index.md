@@ -7,7 +7,7 @@ permalink: /
 {% include image.html url="images/photo.jpg" caption="Sept 2025" width="300px" align="right" %}
  
 
-I am a first year PhD student in Linguistics at The University of Chicago. 
+I am a second year PhD student in Linguistics at The University of Chicago. I am advised by [Karlos Arregi].  
 
 Before coming to Chicago, I was a Baggett Fellow in the Linguistics Department at the [University of Maryland, College Park], where I was advised by Dr. [Masha Polinsky] and Dr. [Aron Hirsch]. My research there centered around Syntax with a primary empirical focus on Kaqchikel, a K’ichean Mayan language spoken in Guatemala. I also have projects on Exceptive constructions in Thai (Kra–Dai), QP syntax, and multiple *Wh*- in Turkish (Turkic). 
 
@@ -15,6 +15,7 @@ I completed my B.A. in Linguistics (2023) at The University of California, Santa
 
 **[Contact]** sadiralewis [at] uchicago [dot] edu
 
+[Karlos Arregi]: https://home.uchicago.edu/karlos/
 [University of Maryland, College Park]: https://linguistics.umd.edu/
 [Masha Polinsky]: https://www.mariapolinsky.com/about-me/
 [Aron Hirsch]: https://sites.google.com/view/aronhirsch/home?authuser=0
@@ -26,6 +27,7 @@ I completed my B.A. in Linguistics (2023) at The University of California, Santa
 
 #### Recent News
 
+- I will be at the LSA Annual Meeting in San Francisco in January, presenting a poster "'Ja' is a copula in Kaqchikel". 
 
 - I will be at WCCFL44 in May, presenting a talk titled "Negation with a pseudo-cleft structure in Kaqchikel". 
 
