@@ -8,8 +8,10 @@ permalink: /
  
 
 I am a second year PhD student in Linguistics at The University of Chicago. I am advised by [Karlos Arregi]. I research the syntax of Kaqchikel (Mayan), specifically I look at A-bar phenomena such as cleft structures, relative clauses, and Wh-sentences. 
+ 
 
 Before coming to Chicago, I was a Baggett Fellow in the Linguistics Department at the [University of Maryland, College Park], where I was advised by Dr. [Masha Polinsky] and Dr. [Aron Hirsch]. My research there centered around Syntax with a primary empirical focus on Kaqchikel, a K’ichean Mayan language spoken in Guatemala. I also have projects on Exceptive constructions in Thai (Kra–Dai), QP syntax, and multiple *Wh*- in Turkish (Turkic). 
+
 
 I completed my B.A. in Linguistics (2023) at The University of California, Santa Cruz. My undergraduate advisors were [Matt Wagers][matt] and [Jess H.K. Law][law]. 
 
